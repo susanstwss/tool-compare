@@ -1,0 +1,17 @@
+  
+{
+  "scanSettings": {
+    "configMode": "AUTO",
+	"configExternalURL": "",
+	"projectToken": "",
+	"baseBranches": [],
+	"enableIaC": true
+  },
+  "checkRunSettings": {
+    "displayMode": "diff",
+    "vulnerableCheckRunConclusionLevel": "failure"
+  },
+  "issueSettings": {
+    "minSeverityLevel": "Medium"
+  }
+}
